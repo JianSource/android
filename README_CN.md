@@ -23,4 +23,4 @@ $ lunch aosp_$device-userdebug
 $ mka bacon -j4
 ```
 
-© 版权 2018 简OS。保留所有权利。
+© 版权 2018-2019 简OS。保留所有权利。
