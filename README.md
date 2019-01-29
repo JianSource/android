@@ -23,4 +23,4 @@ $ lunch aosp_$device-userdebug
 $ mka bacon -j4
 ```
 
-© Copyright 2018 JianOS. All rights reserved.
+© Copyright 2018-2019 JianOS. All rights reserved.
