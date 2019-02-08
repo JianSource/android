@@ -5,7 +5,7 @@ English | [简体中文](./README_CN.md)
 ## Sync
 ```bash
 # Initialize local repository
-repo init -u https://github.com/PixelExperience/android -b master
+repo init -u https://github.com/JianSource/android -b master
 
 # Sync
 repo sync -c -j4 --force-sync --no-clone-bundle --no-tags
