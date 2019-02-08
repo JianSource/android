@@ -5,7 +5,7 @@
 ## 同步
 ```bash
 # 初始化本地存储库
-repo init -u https://github.com/PixelExperience/android -b master
+repo init -u https://github.com/JianSource/android -b master
 
 # 同步
 repo sync -c -j4 --force-sync --no-clone-bundle --no-tags
